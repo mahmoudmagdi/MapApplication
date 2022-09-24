@@ -6,4 +6,10 @@
     <string name="satellite_map">Satellite map</string>
     <string name="terrain_map">terrain map</string>
     <string name="dropped_pin">Dropped pin</string>
+    <string name="average_pace_label">Steps</string>
+    <string name="elapsed_time_label">Elapsed time</string>
+    <string name="distance_label">Distance</string>
+    <string name="start_label">Start</string>
+    <string name="stop_label">Stop</string>
+    <string name="distance_value">%d meters</string>
 </resources>

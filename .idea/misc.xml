@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_distance.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/ic_pace.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/ic_time.xml" value="0.177" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_indicator.xml" value="0.2151268115942029" />
+        <entry key="app/src/main/res/layout/layout_indicators.xml" value="0.2151268115942029" />
         <entry key="app/src/main/res/menu/map_options_menu.xml" value="0.1" />
       </map>
     </option>
