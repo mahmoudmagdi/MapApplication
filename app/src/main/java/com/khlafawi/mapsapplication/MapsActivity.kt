@@ -64,7 +64,6 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
         // TODO: add a new marker to the map
         addMarkerOnMap("Marker in Sydney", LatLng(-34.0, 151.0), moveCamera = true)
-        addMarkerOnMap("Marker in Mall of Arabia", LatLng(-34.0, 151.0), moveCamera = false)
 
         // TODO: add a new market when user long click on a location on the map
         setMapLongClick()
@@ -105,10 +104,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         }
 
         R.id.hybrid_map -> {
-            mMap.mapType = GoogleMap.MAP_TYPE_NORMAL
             mMap.mapType = GoogleMap.MAP_TYPE_HYBRID
-            mMap.mapType = GoogleMap.MAP_TYPE_SATELLITE
-            mMap.mapType = GoogleMap.MAP_TYPE_TERRAIN
             true
         }
 
